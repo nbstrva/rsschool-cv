@@ -32,7 +32,6 @@ Regular interaction with dev team has advanced my ineterest in frontend and back
 * Git, GitHub
 * JavaScript Basics
 * CustDev
-* Figma
 
 ---
 
