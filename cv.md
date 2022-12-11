@@ -1,5 +1,5 @@
 # Natasha Bystrova
-
+ ! [photo](9file:///Users/natashabystrova/Downloads/IMG_7687%202-2.jpg)
 
 ### Junior Frontend Developer
 
@@ -11,6 +11,8 @@
 __Phone:__ +351 910 307 409
 
 __Email:__ nbstrva@gmail.com
+
+__Discord:__ nbstrva#2801
 
 [Telegram](https://t.me/nbstrva)
 
@@ -54,6 +56,13 @@ Regular interaction with dev team has advanced my ineterest in frontend and back
             alert("Don't know you");
         }
 ```
+---
+
+### Projects
+
+#### CV
+[Project page](https://github.com/nbstrva/rsschool-cv) on GitHub
+
 ---
 
 ### Courses
