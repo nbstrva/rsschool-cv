@@ -6,9 +6,12 @@
 ---
 
 ### __Contacts__
-__Phone__: +351 910 307 409
-__Email__: nbstrva@gmail.com
-[Telegram] (https://t.me/nbstrva)
+
+
+__Phone:__ +351 910 307 409
+__Email:__ nbstrva@gmail.com
+[Telegram](https://t.me/nbstrva)
+
 ---
 
 ### About me
@@ -19,7 +22,7 @@ __Email__: nbstrva@gmail.com
 
 ---
 
-### Code Example
+### Code example
 
 ---
 
