@@ -1,5 +1,5 @@
 # Natasha Bystrova
- ! [](https://sun9-6.userapi.com/impg/2JkR07ZFPfJGMXJ9WTCcp8GfKZUVghIoRmDIVw/oC0zPbqLxsA.jpg?size=1622x2160&quality=96&sign=c9a8a516aca8d19b36dd62f52a9442c7&type=album)
+ ![](https://sun9-6.userapi.com/impg/2JkR07ZFPfJGMXJ9WTCcp8GfKZUVghIoRmDIVw/oC0zPbqLxsA.jpg?size=1622x2160&quality=96&sign=c9a8a516aca8d19b36dd62f52a9442c7&type=album)
 
 ### Junior Frontend Developer
 
@@ -58,10 +58,9 @@ Regular interaction with dev team has advanced my ineterest in frontend and back
 ```
 ---
 
-### Projects
+### Experience
 
-#### CV
-* [Project page](https://github.com/nbstrva/rsschool-cv) on GitHub
+* __CV:__ [project page](https://github.com/nbstrva/rsschool-cv) on GitHub
 
 ---
 
