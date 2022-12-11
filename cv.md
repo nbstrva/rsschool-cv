@@ -9,7 +9,9 @@
 
 
 __Phone:__ +351 910 307 409
+
 __Email:__ nbstrva@gmail.com
+
 [Telegram](https://t.me/nbstrva)
 
 ---
