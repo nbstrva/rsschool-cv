@@ -20,7 +20,7 @@ __Email:__ nbstrva@gmail.com
 
 Working with texts as a copywriter, I became interested in marketing and product management and went from a regular author to Сhief Product Editor in two years. Сurrently I research and improve user experience as a product manager. 
 
-Regular interaction with dev-team has advanced my ineterest in frontend and backend development so I've started learn Javascript myself. My goal is to master dev tools to beсcome capable to create whatever I want without any limitations and to help other people and projects make out world better.
+Regular interaction with dev team has advanced my ineterest in frontend and backend development so I've started learn Javascript myself. My goal is to master dev tools to become capable to create whatever I want without any limitations and to help other people and projects make our world better.
 
 ---
 
