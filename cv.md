@@ -1,6 +1,6 @@
-# Natasha Bystrova
+<img src="https://sun9-6.userapi.com/impg/2JkR07ZFPfJGMXJ9WTCcp8GfKZUVghIoRmDIVw/oC0zPbqLxsA.jpg?size=1622x2160&quality=96&sign=c9a8a516aca8d19b36dd62f52a9442c7&type=album" alt="" width="175"/>
 
-<img src="https://sun9-6.userapi.com/impg/2JkR07ZFPfJGMXJ9WTCcp8GfKZUVghIoRmDIVw/oC0zPbqLxsA.jpg?size=1622x2160&quality=96&sign=c9a8a516aca8d19b36dd62f52a9442c7&type=album" alt="" width="100"/>
+# Natasha Bystrova
 
 ### Junior Frontend Developer
 
