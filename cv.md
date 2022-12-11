@@ -1,4 +1,6 @@
-#Natasha Bystrova
+# Natasha Bystrova
+---
+## Junior Frontend Developer
 ---
 
 
