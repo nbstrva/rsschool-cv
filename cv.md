@@ -33,6 +33,7 @@ Regular interaction with dev team has advanced my ineterest in frontend and back
 * JavaScript Basics
 * CustDev
 * Figma
+
 ---
 
 ### Code example
