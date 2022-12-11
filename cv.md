@@ -10,9 +10,7 @@
 
 __Phone:__ +351 910 307 409
 
-
 __Email:__ nbstrva@gmail.com
-
 
 [Telegram](https://t.me/nbstrva)
 
@@ -53,16 +51,15 @@ __Email:__ nbstrva@gmail.com
 ```
 ---
 
-### Experience
-
----
-
 ### Courses
-
+* RS School Course «JavaScript/Front-end. Stage 0» (in progress)
+* JavaScript Manual on learnjavascript.ru (in progress)
 ___
 
 ### Languages
-
+* English, C1
+* Russian, native
+* Spanish, A1
 
 
 
